@@ -19,7 +19,7 @@ Add new exercises to a new workout plan.
 
 View the combined weight of multiple exercises on the `stats` page.
 DEPLOYED VERSION
-
+https://safe-wildwood-86238.herokuapp.com/
 
 DEMO
 fitnesstracker
